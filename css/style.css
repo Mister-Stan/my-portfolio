@@ -23,10 +23,20 @@ h6 {
 
 p {
   margin: 0;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size:20px;
 }
 
 a {
 		color:rgba(148, 216, 228, 0.952);
+		font-size:20px;
 }
 
 header h1 {
@@ -40,6 +50,7 @@ header h1 {
 	font-size: 27px;
 	padding-right: 10px;
 	padding-bottom: 2px;
+	font-size:32px;
 }
 
 header{	
@@ -59,8 +70,8 @@ nav {
 nav a {
 	padding-left:7px;
 	padding-right:7px;
-	font-size: 15px;
-	line-height:20px;
+	font-size: 20px;
+	line-height:25px;
 	text-decoration: none;
 }
 
@@ -131,6 +142,7 @@ nav ul li {
 	width:80%;	
 	border-left: 3px solid rgba(148, 216, 228, 0.952);
   padding-left: 15px;
+	font-size:20px;
 }
 
 
@@ -221,7 +233,7 @@ ul li .website, ul li .github, ul li .twitter {
 
 #about h2 {
 	position:relative;
-	left:62%;
+	left:66%;
 }
 
 #work h2 {
@@ -231,7 +243,7 @@ ul li .website, ul li .github, ul li .twitter {
 
 #contact h2 {
 	position:relative;
-	left:53%;
+	left:60%;
 }
 
 #contact .section-right li {
