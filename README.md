@@ -1,6 +1,6 @@
 ## My portfolio!
 
-## ![my screenshot](./images/printscreen.png)
+## ![my screenshot](./images/printscreen.webp)
 
 ## This file is part of bootcamp's bio exercise which is delivered by Trilogy Education Services, an affiliate of edX. Contact Trilogy Skills Bootcamp at +442038356355.
 

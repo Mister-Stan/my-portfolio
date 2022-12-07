@@ -76,7 +76,7 @@ nav a {
 }
 
 #hero-banner {
-	background-image:url("../images/background.png");
+	background-image:url("../images/background.webp");
 	height: 200px;
 }
 
@@ -149,7 +149,7 @@ nav ul li {
 .section-right .full-width{
 	float:left;
 	width:91%;
-  background-image: url("../images/preworkLogo.png");
+  background-image: url("../images/preworkLogo.webp");
   height:200px;
   border:3px solid rgb(39, 148, 221);
   margin-bottom:15px;
@@ -174,23 +174,23 @@ nav ul li {
 }
 
 .bio-logo {
-	background-image: url("../images/work.png");
+	background-image: url("../images/work.webp");
 	height:100px;
 }
 
 .jake-logo {
-	background-image: url("../images/jake.png");
+	background-image: url("../images/jake.webp");
 	height:100px;
 }
 
 .horiseon-logo {
-	background-image: url("../images/bio.png");
+	background-image: url("../images/bio.webp");
 	height:100px;
 }
 
 
 .horiseon-logo-second {
-	background-image: url("../images/bio1.png");
+	background-image: url("../images/bio1.webp");
 	height:100px;
 }
 
