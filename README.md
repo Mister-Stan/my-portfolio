@@ -7,5 +7,7 @@
 ## Installation N/A
 
 ## Credits https://skillsforlife.edx.org/
+           
+## https://pixabay.com/
 
 ## License MIT License ![GitHub](https://img.shields.io/github/license/mister-stan/my-portfolio)
