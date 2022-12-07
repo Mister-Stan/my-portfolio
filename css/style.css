@@ -1,0 +1,240 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  border: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+	background-color: rgb(243, 243, 238);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+		color:rgba(148, 216, 228, 0.952);
+}
+
+header h1 {
+	float:left;
+	background-color: rgba(148, 216, 228, 0.952);
+	color:black;
+	padding-left: 30px;
+	padding-right: 5px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	font-size: 27px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+}
+
+header{	
+	float:left;
+	display: block;
+	width:100%;
+	padding-top: 8px;
+	line-height: 30px;
+	background-color: rgb(39, 38, 38);
+}
+
+nav {
+	float:right;
+	margin-right:40px;
+}
+
+nav a {
+	padding-left:7px;
+	padding-right:7px;
+	font-size: 15px;
+	line-height:20px;
+	text-decoration: none;
+}
+
+#hero-banner {
+	background-image:url("/images/background.png");
+	height: 200px;
+}
+
+#banner h2{
+	background-color: rgba(148, 216, 228, 0.952);
+	color:black(61, 60, 60);
+	padding-left:7px;
+	padding-right: 7px;
+	float: right;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+
+
+#contact a {
+	text-decoration: underline 3px solid;
+}
+
+.phone-number {
+	text-decoration: underline 3px solid rgba(148, 216, 228, 0.952);
+}
+
+
+nav ul {
+	float:left;
+	display:block;
+	list-style-type:none;
+}
+
+nav ul li {
+	float:left;
+	border-bottom: 2px solid rgba(148, 216, 228, 0.952);
+	margin-right:5px;
+}
+
+.page-wrapper{
+	display:block;
+	margin:15px auto;
+	max-width:100%;
+	position:relative;
+	right:5%;	
+}
+
+.page-section {
+	float:left;
+	display:block;
+	width:100%;
+	margin-bottom:20px;
+}
+
+.section-left{
+	float:left;
+	width:20%;
+ color:rgb(3, 45, 95);
+}
+
+
+
+
+.section-right{
+	float:right;
+	width:80%;	
+	border-left: 3px solid rgba(148, 216, 228, 0.952);
+  padding-left: 15px;
+}
+
+
+.section-right .full-width{
+	float:left;
+	width:91%;
+  background-image: url("/images/preworkLogo.png");
+  height:200px;
+  border:3px solid rgb(39, 148, 221);
+  margin-bottom:15px;
+
+
+}
+
+.section-right p {
+	width:96%;
+}
+
+
+
+.section-right .half-width{
+	float:left;
+	width:45%;
+	display:block;
+	border:3px solid rgb(39, 148, 221);
+  margin-bottom: 15px;
+  height:100%;
+  margin-right:10px;
+}
+
+.bio-logo {
+	background-image: url("/images/work.png");
+	height:100px;
+}
+
+.jake-logo {
+	background-image: url("/images/jake.png");
+	height:100px;
+}
+
+.horiseon-logo {
+	background-image: url("/images/bio.png");
+	height:100px;
+}
+
+
+.horiseon-logo-second {
+	background-image: url("/images/bio1.png");
+	height:100px;
+}
+
+.section-right li {
+	list-style-type: none;
+	display: inline-block;
+	width:24%;
+}
+
+.section-right a {
+	background-color: azure;
+	color:rgb(3, 45, 95);
+	font-size: 18px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+
+.section-right .phone-number {
+	color:rgb(3, 45, 95);
+	text-decoration-color: rgb(3, 45, 95);
+	}
+
+.half-width a, .full-width a{
+	text-decoration: none;
+	position: relative;
+	top:70%;
+}
+
+ul li .website, ul li .github, ul li .twitter {
+	background-color: rgb(243, 243, 238);
+}
+
+#banner h2 {
+	position: relative;
+	top:20px;
+}
+
+#about h2 {
+	position:relative;
+	left:62%;
+}
+
+#work h2 {
+	position: relative;
+	left:74%;
+}
+
+#contact h2 {
+	position:relative;
+	left:53%;
+}
+
+#contact .section-right li {
+	position: relative;
+	left:5%;
+}
